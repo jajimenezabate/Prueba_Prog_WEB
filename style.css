@@ -1,0 +1,22 @@
+div{
+    background: #DDE8E4;
+}
+
+*{
+    text-align: justify;
+    
+    ;
+}
+
+body{
+    font-family: 'verdana'; /* FUENTE (LETRA)*/
+}
+
+footer{
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+    padding-bottom: 0.1px;
+}
+
+.imagen{
+    border-radius: 15px;
+}
