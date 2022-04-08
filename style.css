@@ -1,0 +1,37 @@
+
+
+h1{
+    text-align: center;
+}
+
+
+body{
+    background-color:white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.container-fluid{
+    background-color:lightgreen;
+}
+
+.center{
+    margin: auto; 
+    width: 500px;
+}
+
+h4{
+    text-align: center;
+}
+
+#imagen2{
+    height: 300px;
+}
+
+.Navegador1{
+    width: 1000px;
+}
+
+.col-3{
+    text-align: center;
+    
+}
